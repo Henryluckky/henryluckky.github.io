@@ -2,7 +2,7 @@
 title: Material transporter for microelectronic products within the workshop
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 
 date: Oct. 2020
 venue: 'Chinese patent'
 paperurl: 'http://epub.cnipa.gov.cn/certifdesc.action?strWhere=CN213138832U'
@@ -10,4 +10,3 @@ paperurl: 'http://epub.cnipa.gov.cn/certifdesc.action?strWhere=CN213138832U'
 ---
 This work is about an utility patent for material transporter. We designed and developed a material transporter for microelectronic components with a suspended payload rack to drastically reduce vibrations and shaking while transporting the components; specifically, the rack was in a floating state relative to the frame using a buffer system. Drew diagrams of the transporter's structure in CAD and chose the suitable materials to build the model. Described the design in a detailed document and applied for a new utility patent.
 
-<!-- (http://epub.cnipa.gov.cn/certifdesc.action?strWhere=CN213138832U) -->
