@@ -35,7 +35,7 @@ Skills
   * Matlab
   * EDA tools & FPGA development
   * Verilog HDL
-* Language: Fluent in English; Native in Mandarin; Basicuser in German.
+* Language: Fluent in English; Native in Mandarin; Basicuser in German.(https://github.com/academicpages/academicpages.github.io)
 
 Publications
 ======
