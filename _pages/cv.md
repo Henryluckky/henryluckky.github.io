@@ -18,11 +18,11 @@ Education
 
 Work experience
 ======
-* Design Assistant, Suzhou INT Electronics Industry Co., Ltd  Dec. 2020 – Jan. 2021
+* Dec. 2020 – Jan. 2021: Design Assistant, Suzhou INT Electronics Industry Co., Ltd 
   * Simulated and verified circuits using Multisim. Also assisted in the drawing of some basic layouts using CAD to meet the product requirements.
   * Gained a better understanding of the process of photomask manufacturing and improved proficiency in circuit design software.
 
-* Software Test assistant, Harbin Tongqu Network Technology Co., Ltd  Jan. 2019 – Mar. 2019
+* Jan. 2019 – Mar. 2019: Software Test assistant, Harbin Tongqu Network Technology Co., Ltd
   * Bulit an user interface with python qt to record the real-time online users of BanWai app and the user’s habit including the frequency and online time of different people.
   * Duties included: Merging pull requests
   * Built a training model of over 200 samples with SVM and gave some suggestions to specific group towards Banwai app.
