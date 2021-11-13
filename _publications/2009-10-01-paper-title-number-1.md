@@ -8,8 +8,6 @@ venue: 'Chinese patent'
 paperurl: 'http://epub.cnipa.gov.cn/certifdesc.action?strWhere=CN213138832U'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This work is about an utility patent for material transporter. We designed and developed a material transporter for microelectronic components with a suspended payload rack to drastically reduce vibrations and shaking while transporting the components; specifically, the rack was in a floating state relative to the frame using a buffer system. Drew diagrams of the transporter's structure in CAD and chose the suitable materials to build the model. Described the design in a detailed document and applied for a new utility patent.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+(http://epub.cnipa.gov.cn/certifdesc.action?strWhere=CN213138832U)
