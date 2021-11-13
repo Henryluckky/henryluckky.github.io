@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+You can download my CV [here](http://henryluckky.github.io/files/resume.pdf)
 {% include base_path %}
-Download my CV [here](http://henryluckky.github.io/files/resume.pdf)
 Education
 ======
 * B.S., Microelectronics Science and Engineering, Changchun University of Science and Technology, 2018-2022
@@ -27,6 +27,12 @@ Research experience
   Material Transporter for Microelectronic Products within a Workshop      Advisers: Weijun Chen
   * Designed and developed a material transporter for microelectronic components with a suspended payload rack to drastically reduce vibrations and shaking while transporting the components; specifically, the rack was in a floating state relative to the frame using a buffer system.
   * Drew diagrams of the transporter's structure in CAD and chose the suitable materials to build the model. Described the design in a detailed document and applied
+
+* Dec. 2019 – Nov. 2019:
+  Wireless Atmospheric Laser Communication       Advisers: Yining Mu
+  * Contributed to the design and prototyping of an all-weather atmospheric telecommunication apparatus based on free-space optical (FSO) communication and state-of-the-art broadband access technology. 
+  * Compared to current cabled fibreoptic technology, it is much cheaper and faster to set up, less cumbersome but has slightly slower broadband and shorter distance. 
+  * Produced a business plan and presented it at an entrepreneurial competition. Qualified as a finalist for the "Internet+" competition, and the project was awarded "College Students' Innovative Entrepreneurial Training" funding.
 
 Work experience
 ======
