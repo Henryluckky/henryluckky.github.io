@@ -18,21 +18,27 @@ Education
 Research experience
 ======
 * June. 2021 – present: 
-  * A Research of Neural Degenerative Diseases Concerning Epilepsy,Advisers: Mohamad Sawan(Chair Professor, FIEEE, FCAE, FEIC,O.Q)              
+  * A Research of Neural Degenerative Diseases Concerning Epilepsy, Advisers: Mohamad Sawan(Chair Professor, FIEEE, FCAE, FEIC,O.Q)              
     * Use Python QT to build a GUI framework that could display real-time EEG signal, and later embedded neural network algorithms to process raw data for seizure prediction, realised the interconnection on FPGA-chip communication. 
     * Collected over 40 samples of ordinary people’s motor imagery EEG data and adopted PyTorch to train the model with SVM, random forest and CNN. 
     * Cooperated with some PhD students to help build signal amplifiers and DAC converters to realise noise cancellation and filtering.
 
 * Oct. 2020 – Dec. 2020:
-  Material Transporter for Microelectronic Products within a Workshop      Advisers: Weijun Chen
-  * Designed and developed a material transporter for microelectronic components with a suspended payload rack to drastically reduce vibrations and shaking while transporting the components; specifically, the rack was in a floating state relative to the frame using a buffer system.
-  * Drew diagrams of the transporter's structure in CAD and chose the suitable materials to build the model. Described the design in a detailed document and applied
+  * Material Transporter for Microelectronic Products within a Workshop      Advisers: Weijun Chen
+   * Designed and developed a material transporter for microelectronic components with a suspended payload rack to drastically reduce vibrations and shaking while transporting the components; specifically, the rack was in a floating state relative to the frame using a buffer system.
+   * Drew diagrams of the transporter's structure in CAD and chose the suitable materials to build the model. Described the design in a detailed document and applied
 
 * Dec. 2019 – Nov. 2019:
-  Wireless Atmospheric Laser Communication       Advisers: Yining Mu
-  * Contributed to the design and prototyping of an all-weather atmospheric telecommunication apparatus based on free-space optical (FSO) communication and state-of-the-art broadband access technology. 
-  * Compared to current cabled fibreoptic technology, it is much cheaper and faster to set up, less cumbersome but has slightly slower broadband and shorter distance. 
-  * Produced a business plan and presented it at an entrepreneurial competition. Qualified as a finalist for the "Internet+" competition, and the project was awarded "College Students' Innovative Entrepreneurial Training" funding.
+  * Wireless Atmospheric Laser Communication       Advisers: Yining Mu
+   * Contributed to the design and prototyping of an all-weather atmospheric telecommunication apparatus based on free-space optical (FSO) communication and state-of-the-art broadband access technology. 
+   * Compared to current cabled fibreoptic technology, it is much cheaper and faster to set up, less cumbersome but has slightly slower broadband and shorter distance. 
+   * Produced a business plan and presented it at an entrepreneurial competition. Qualified as a finalist for the "Internet+" competition, and the project was awarded "College Students' Innovative Entrepreneurial Training" funding.
+
+* Dec. 2019 – Nov. 2019:
+  * Gyroscope Teslameter       Advisers: Weijun Chen
+   * Researched and produced a model of a gyroscope Teslameter. It could measure magnetic field strength using a fast-rotating gyroscope made of conductive, non-ferromagnetic material which generated an asymmetric eddy current field; thus, Lorentz drag torque. 
+   * Simulated the physical model, then built the experimental equipment, finally displayed the physical model at the intramural physics experiment competition and presented and explained the principles.
+   * Obtained second prize in the Provincial physics experiment.
 
 Work experience
 ======
