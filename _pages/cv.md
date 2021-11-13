@@ -78,7 +78,14 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
-Service and leadership
+
+Honors & Awards
 ======
-* Currently signed in to 43 different slack teams
+* First-class Scholarship 3 times, Second-class Schorlarship 1 times, Three-class Schorlarship 2 times
+* Utility patent for "material transporter for microelectronic products within the workshop"
+* Second prize, National English Competition for College Students(NECCS)
+* Second prize, Provincial Physics Experiment Competition
+* Third prize, Mathematical Modelling Competition
+* Second prize, University Students' Entrepreneurship Competition Challenge Cup
+* Third prize, International Collegiate Programming Contest (ICPC) held by ACM
+* First prize, Presentation of "Introduction to Maoism and Socialist Theoretical System with Chinese Characteristic"
