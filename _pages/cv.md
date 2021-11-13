@@ -6,16 +6,27 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
-You can also download my CV [here](http://henryluckky.github.io/files/resume.pdf)
-
+Download my CV [here](http://henryluckky.github.io/files/resume.pdf)
 Education
 ======
 * B.S., Microelectronics Science and Engineering, Changchun University of Science and Technology, 2018-2022
   * Weighted Average Score: 85.4/100(top 5% of the major)
 * Summer camp, Integrated Circuit Design, Peking University, June. 2020- July. 2020 
 * Visiting research student, Electronics and Engineering, Westlake University, June. 2021- present 
+
+Research experience
+======
+* June. 2021 – present: 
+  A Research of Neural Degenerative Diseases Concerning Epilepsy    Advisers: Mohamad Sawan(Chair Professor, FIEEE, FCAE, FEIC,O.Q)              
+  * Use Python QT to build a GUI framework that could display real-time EEG signal, and later embedded neural network algorithms to process raw data for seizure prediction, realised the interconnection on FPGA-chip communication. 
+  * Collected over 40 samples of ordinary people’s motor imagery EEG data and adopted PyTorch to train the model with SVM, random forest and CNN. 
+  * Cooperated with some PhD students to help build signal amplifiers and DAC converters to realise noise cancellation and filtering.
+
+* Oct. 2020 – Dec. 2020:
+  Material Transporter for Microelectronic Products within a Workshop      Advisers: Weijun Chen
+  * Designed and developed a material transporter for microelectronic components with a suspended payload rack to drastically reduce vibrations and shaking while transporting the components; specifically, the rack was in a floating state relative to the frame using a buffer system.
+  * Drew diagrams of the transporter's structure in CAD and chose the suitable materials to build the model. Described the design in a detailed document and applied
 
 Work experience
 ======
