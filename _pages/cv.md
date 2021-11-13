@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-*You can also download my CV [here](files/resume.pdf)
+*You can also download my CV [here](http://academicpages.github.io/files/resume.pdf)
 Education
 ======
 * B.S., Microelectronics Science and Engineering, Changchun University of Science and Technology, 2018-2022
