@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Hanrui Li"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Hanrui Li"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          :  "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
