@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can download my CV [here](http://henryluckky.github.io/files/resume.pdf)
+Download my CV in [English](http://henryluckky.github.io/files/resume.pdf)/[Chinese](http://henryluckky.github.io/files/resume_Chinese.pdf)
 {% include base_path %}
 Education
 ======
