@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/AICAS
 excerpt: 
 date: March. 2022
-venue: 'IEEE AICAS 2022'
+venue: 'IEEE AICAS'
 paperurl: 'http://henryluckky.github.io/files/Intelligent_Real_time_Electrophysiological_Signal_Processing_System_based_on_FPGA_acceleration (1).pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
