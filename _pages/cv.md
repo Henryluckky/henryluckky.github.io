@@ -11,7 +11,7 @@ Download my CV in [English](http://henryluckky.github.io/files/resume.pdf) & [Ch
 Education
 ======
 * B.S., Microelectronics Science and Engineering, Changchun University of Science and Technology, 2018-2022
-  * Weighted Average Score: 85.4/100(top 5% of the major)
+  * Weighted Average Score: 86.4/100(top 5% of the major)
 * Summer camp, Integrated Circuit Design, Peking University, June. 2020- July. 2020 
 * Visiting research student, Electronics and Engineering, Westlake University, June. 2021- present 
 * PhD candidate, Electrical and Computer Engineering, King Abdullah University of Science & Technology, Sep. 2022- future 
