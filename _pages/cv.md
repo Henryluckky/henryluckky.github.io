@@ -14,6 +14,7 @@ Education
   * Weighted Average Score: 85.4/100(top 5% of the major)
 * Summer camp, Integrated Circuit Design, Peking University, June. 2020- July. 2020 
 * Visiting research student, Electronics and Engineering, Westlake University, June. 2021- present 
+* PhD candidate, Electrical and Computer Engineering, King Abdullah University of Science & Technology, Sep. 2022- future 
 
 Research experience
 ======
