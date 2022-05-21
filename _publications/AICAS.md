@@ -13,7 +13,6 @@ parallel to speed up data-processing tasks. The proposed system is validated for
 prediction with a convolutional neural network (CNN), EMGbased gesture recognition with a spiking neural network (SNN), and ECG-based arrhythmia detection with a binary neural network (BNN). Experimental results reveal that this system takes 13 ms to process one-second electrophysiological signals at 512 Hz and 32 channels, thus achieving real-time performance. The proposed BRPS is an open-source and expandable system, and different machine-learning approaches can be configured for diverse applications.
 
 
-Our poster<br/><img src='/images/AICAS_poster.png'>
 [Our poster](/images/AICAS_poster.png)
 
 
