@@ -2,7 +2,7 @@
 title: Real-time Biosignal Recording and Machine-Learning Analysis System
 collection: publications
 permalink: /publication/AICAS
-excerpt: 
+excerpt: Our poster<br/><img src='/images/AICAS_poster.png'>
 date: March. 2022
 venue: 'IEEE AICAS'
 paperurl: 'http://henryluckky.github.io/files/Intelligent_Real_time_Electrophysiological_Signal_Processing_System_based_on_FPGA_acceleration (1).pdf'
