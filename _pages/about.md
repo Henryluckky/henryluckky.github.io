@@ -18,6 +18,7 @@ My future goal is to become a scientist or engineer. I will always focus on the 
 
 ======News======
 
+New paper "Vertically Stacked Nanosheet FET: Charge Trapping Memory and Synapse with Linear Weight Adjustability for Neuromorphic Computing Applications" was under review of IEEE Transactions on Electron Devices.
 
 My paper "[Real-time Biosignal Recording and Machine-Learning Analysis System](http://henryluckky.github.io/files/Intelligent_Real_time_Electrophysiological_Signal_Processing_System_based_on_FPGA_acceleration (1).pdf)" has been submitted to IEEE AICAS 2022🎉🎉
 
