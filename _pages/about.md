@@ -18,7 +18,9 @@ My future goal is to become a scientist or engineer. I will always focus on the 
 
 ======News======
 
-New paper "Vertically Stacked Nanosheet FET: Charge Trapping Memory and Synapse with Linear Weight Adjustability for Neuromorphic Computing Applications" was under review of IEEE Transactions on Electron Devices.
+One paper was under review of IEEE ICEE 2022.
+
+One paper was under review of IEEE Transactions on Electron Devices.
 
 My paper "[Real-time Biosignal Recording and Machine-Learning Analysis System](https://ieeexplore.ieee.org/abstract/document/9869982)" has been submitted to IEEE AICAS 2022🎉🎉
 
