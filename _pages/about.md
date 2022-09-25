@@ -21,7 +21,7 @@ One paper was send to IEEE ISCAS.
 
 One paper was under review of IEEE ICEE 2022.
 
-Paper "[Vertically Stacked Nanosheet FET]"(https://henryluckky.github.io//publication/TED-2022-09-2185-R_Proof_hi) was under review of IEEE Transactions on Electron Devices.
+Paper "[Vertically Stacked Nanosheet FET](https://henryluckky.github.io//publication/TED-2022-09-2185-R_Proof_hi)" was under review of IEEE Transactions on Electron Devices.
 
 Paper "[Real-time Biosignal Recording and Machine-Learning Analysis System](https://ieeexplore.ieee.org/abstract/document/9869982)" has been submitted to IEEE AICAS 2022🎉🎉
 
