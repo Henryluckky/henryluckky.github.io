@@ -20,7 +20,7 @@ My future goal is to become a scientist or engineer. I will always focus on the 
 
 One paper was send to IEEE ISCAS.
 
-One paper was under review of IEEE ICEE 2022.
+Two paper was accpected IEEE ICEE 2022🎉🎉
 
 Paper "[Vertically Stacked Nanosheet FET](https://henryluckky.github.io/files/TED-2022-09-2185-R_Proof_hi.pdf)" was under review of IEEE Transactions on Electron Devices.
 
