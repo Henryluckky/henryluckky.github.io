@@ -22,9 +22,9 @@ One paper was send to IEEE ISCAS.
 
 Two paper was accpected IEEE ICEE 2022🎉🎉
 
-Paper Voltage Gated Domain Wall Magnetic Tunnel Junction-based Spiking Convolutional Neural Network was under review of IEEE TED.
+Paper "[Voltage Gated Domain Wall Magnetic Tunnel Junction-based Spiking Convolutional Neural Network](https://arxiv.org/abs/2212.09444)" was under review of IEEE TED.
 
-Paper Vertically Stacked Nanosheet FET was accepted by IEEE TED.
+Paper "[Vertically Stacked Nanosheet FET](https://ieeexplore.ieee.org/abstract/document/10015665)" was submitted by IEEE TED.
 
 Paper "[Real-time Biosignal Recording and Machine-Learning Analysis System](https://ieeexplore.ieee.org/abstract/document/9869982)" has been submitted to IEEE AICAS 2022
 
