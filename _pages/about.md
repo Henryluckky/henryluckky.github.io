@@ -18,9 +18,9 @@ My future goal is to become a scientist or engineer. I will always focus on the 
 
 ======News======
 
-One paper was send to IEEE ISCAS.
-
 Two paper was accpected IEEE ICEE 2022🎉🎉
+
+Paper "[Novel Knowledge Distillation to Improve Training Accuracy of Spin-based SNN]" was under review of IEEE AICAS 2023.
 
 Paper "[Voltage Gated Domain Wall Magnetic Tunnel Junction-based Spiking Convolutional Neural Network](https://arxiv.org/abs/2212.09444)" was under review of IEEE TED.
 
