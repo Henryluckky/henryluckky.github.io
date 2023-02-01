@@ -11,7 +11,7 @@ This is Hanrui’s homepage!
 
 Hi, there! This is Hanrui Li, a MS/PhD student in [Smart, Advanced Memory devices and Applications Lab](https://cemse.kaust.edu.sa/sama) supervised by Prof. Nazek El-Atab at King Abdullah University of Science & Technology (KAUST) from 2022-fall.
 
-From June.2021 to May.2022, I was a research assitant at [CenBRAIN Neurotech](https://cenbrain.westlake.edu.cn/), Westlake University working with Prof. Mohamad SAWAN (Chair Professor, FIEEE, FCAE) & Dr. Jie YANG. I ever worked as Research Assistant in two labs at my bachelor school. Now my research interest lie in Neuromorphic Computing and Smart memory device. Please feel free to contact me if you have any questions. My e-mails: hanrui.li@kaust.edu.sa
+From June.2021 to May.2022, I was a research assitant at [CenBRAIN Neurotech](https://cenbrain.westlake.edu.cn/), Westlake University working with Prof. [Mohamad SAWAN](http://www.mohamadsawan.org) (Chair Professor, FIEEE, FCAE) & Dr. Jie YANG. I ever worked as Research Assistant in two labs at my bachelor school. Now my research interest lie in Neuromorphic Computing and Smart memory device. Please feel free to contact me if you have any questions. My e-mails: hanrui.li@kaust.edu.sa
 
 
 My future goal is to become a scientist or engineer. I will always focus on the field of electronic&computer engineering and chase the most cutting-edge technology!
