@@ -18,8 +18,14 @@ Education
 
 Research experience
 ======
-* June. 2021 – present: 
-  * Brain-machine interfaces and neuromorphic engineering, Advisers: Mohamad Sawan(Chair Professor, FIEEE, FCAE, FEIC,O.Q)              
+* Sep. 2022 – present: 
+  * Emerging non-volatile memory and neuromorphic computing, Advisers: Nazek Elatab              
+    * Fabrication of 2D material based memristor
+    * SNN-related algorithm and new applications for memory device
+    * Device simulation via TCAD
+
+* June. 2021 – April. 2022: 
+  * Brain-machine interfaces and neuromorphic engineering, Advisers: Mohamad Sawan(Chair Professor, FIEEE, FCAE, FEIC)              
     * Biosignal analysis and processing (ECG, EMG, EEG)
     * Machine learning and hardware co-design (FPGA based)
     * Build a full loop biosignal analysis system
