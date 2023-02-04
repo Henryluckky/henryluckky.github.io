@@ -62,10 +62,10 @@ Skills
 ======
 * Areas of interests: Artifical Intelligence, Neuromorphic Computing & Computer Vision
 * Technical:
-  * python(pytorch,tensorflow,pyqt5,etc)
+  * Python(pytorch,tensorflow,pyqt5,etc)
   * Matlab
   * EDA tools & FPGA development
-  * Verilog HDL
+  * Electronics fabrication
 * Language: Fluent in English; Native in Mandarin; Basicuser in German.
 
 Publications
