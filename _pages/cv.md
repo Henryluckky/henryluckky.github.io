@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Here my CV in [English](http://henryluckky.github.io/files/resume.pdf) & [Chinese](http://henryluckky.github.io/files/resume_Chinese.pdf)
+Here my CV in [English](http://henryluckky.github.io/files/resume.pdf)
 {% include base_path %}
 Education
 ======
@@ -82,11 +82,11 @@ Teaching
 
 Honors & Awards
 ======
-* First-class Scholarship 3 times, Second-class Schorlarship 1 times, Three-class Schorlarship 2 times
+* 8 times Schorlarship during bachelor degree
 * Utility patent for "material transporter for microelectronic products within the workshop"
 * Second prize, National English Competition for College Students(NECCS)
 * Second prize, Provincial Physics Experiment Competition
 * Third prize, Mathematical Modelling Competition
 * Second prize, University Students' Entrepreneurship Competition Challenge Cup
 * Third prize, International Collegiate Programming Contest (ICPC) held by ACM
-* First prize, Presentation of "Introduction to Maoism and Socialist Theoretical System with Chinese Characteristic"
+<!-- * First prize, Presentation of "Introduction to Maoism and Socialist Theoretical System with Chinese Characteristic" -->
