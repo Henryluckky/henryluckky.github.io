@@ -24,12 +24,12 @@ Research experience
     * Collected over 40 samples of ordinary people’s motor imagery EEG data and adopted PyTorch to train the model with SVM, random forest and CNN. 
     * Cooperated with some PhD students to help build signal amplifiers and DAC converters to realise noise cancellation and filtering.
 
-* Oct. 2020 – Dec. 2020:
+<!-- * Oct. 2020 – Dec. 2020:
   * Material Transporter for Microelectronic Products within a Workshop      Advisers: Weijun Chen
     * Designed and developed a material transporter for microelectronic components with a suspended payload rack to drastically reduce vibrations and shaking while transporting the components; specifically, the rack was in a floating state relative to the frame using a buffer system.
-    * Drew diagrams of the transporter's structure in CAD and chose the suitable materials to build the model. Described the design in a detailed document and applied
+    * Drew diagrams of the transporter's structure in CAD and chose the suitable materials to build the model. Described the design in a detailed document and applied -->
 
-* Dec. 2019 – Nov. 2019:
+<!-- * Dec. 2019 – Nov. 2019:
   * Wireless Atmospheric Laser Communication,       Advisers: Yining Mu
     * Contributed to the design and prototyping of an all-weather atmospheric telecommunication apparatus based on free-space optical (FSO) communication and state-of-the-art broadband access technology. 
     * Compared to current cabled fibreoptic technology, it is much cheaper and faster to set up, less cumbersome but has slightly slower broadband and shorter distance. 
@@ -39,9 +39,9 @@ Research experience
   * Gyroscope Teslameter,       Advisers: Weijun Chen
     * Researched and produced a model of a gyroscope Teslameter. It could measure magnetic field strength using a fast-rotating gyroscope made of conductive, non-ferromagnetic material which generated an asymmetric eddy current field; thus, Lorentz drag torque. 
     * Simulated the physical model, then built the experimental equipment, finally displayed the physical model at the intramural physics experiment competition and presented and explained the principles.
-    * Obtained second prize in the Provincial physics experiment.
+    * Obtained second prize in the Provincial physics experiment. -->
 
-Work experience
+<!-- Work experience
 ======
 * Dec. 2020 – Jan. 2021: Design Assistant, Suzhou INT Electronics Industry Co., Ltd 
   * Simulated and verified circuits using Multisim. Also assisted in the drawing of some basic layouts using CAD to meet the product requirements.
@@ -50,7 +50,7 @@ Work experience
 * Jan. 2019 – Mar. 2019: Software Test assistant, Harbin Tongqu Network Technology Co., Ltd
   * Bulit an user interface with python qt to record the real-time online users of BanWai app and the user’s habit including the frequency and online time of different people.
   * Duties included: Merging pull requests
-  * Built a training model of over 200 samples with SVM and gave some suggestions to specific group towards Banwai app.
+  * Built a training model of over 200 samples with SVM and gave some suggestions to specific group towards Banwai app. -->
   
 Skills
 ======
