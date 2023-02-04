@@ -19,10 +19,10 @@ Education
 Research experience
 ======
 * June. 2021 – present: 
-  * A Research of Neural Degenerative Diseases Concerning Epilepsy, Advisers: Mohamad Sawan(Chair Professor, FIEEE, FCAE, FEIC,O.Q)              
-    * Use Python QT to build a GUI framework that could display real-time EEG signal, and later embedded neural network algorithms to process raw data for seizure prediction, realised the interconnection on FPGA-chip communication. 
-    * Collected over 40 samples of ordinary people’s motor imagery EEG data and adopted PyTorch to train the model with SVM, random forest and CNN. 
-    * Cooperated with some PhD students to help build signal amplifiers and DAC converters to realise noise cancellation and filtering.
+  * Brain-machine interfaces and neuromorphic engineering, Advisers: Mohamad Sawan(Chair Professor, FIEEE, FCAE, FEIC,O.Q)              
+    * Biosignal analysis and processing (ECG, EMG, EEG)
+    * Machine learning and hardware co-design (FPGA based)
+    * Build a full loop biosignal analysis system
 
 <!-- * Oct. 2020 – Dec. 2020:
   * Material Transporter for Microelectronic Products within a Workshop      Advisers: Weijun Chen
