@@ -18,7 +18,7 @@ Education
 
 Research experience
 ======
-* Sep. 2022 – present: 
+* Sep. 2022 – Present: 
   * Emerging non-volatile memory and neuromorphic computing, Advisers: Nazek Elatab              
     * Fabrication of 2D material based memristor
     * SNN-related algorithm and new applications for memory device
