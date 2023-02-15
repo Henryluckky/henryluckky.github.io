@@ -13,12 +13,12 @@ Education
 * B.S., Microelectronics Science and Engineering, Changchun University of Science and Technology, 2018-2022
   * Weighted Average Score: 86.4/100(top 5% of the major)
 * Summer camp, Integrated Circuit Design, Peking University, June. 2020- July. 2020 
-* Visiting research student, Electronics and Engineering, Westlake University, June. 2021- present 
-* PhD student, Electrical and Computer Engineering, King Abdullah University of Science & Technology, Sep. 2022- future 
+* Visiting research student, Electronics and Engineering, Westlake University, June. 2021- May. 2022 
+* PhD student, Electrical and Computer Engineering, King Abdullah University of Science & Technology, Sep. 2022- Now 
 
 Research experience
 ======
-* Sep. 2022 – Present: 
+* Sep. 2022 – Now: 
   * Emerging non-volatile memory and neuromorphic computing, Advisers: Nazek Elatab              
     * Fabrication of 2D material based memristor
     * SNN-related algorithm and new applications for memory device
