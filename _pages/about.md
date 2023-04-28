@@ -18,9 +18,13 @@ My future goal is to become a scientist or engineer. I will always focus on the 
 
 ======News======
 
-Two paper was accepted by IEEE ICEE 2022🎉🎉
+Two paper was accepted by IEEE ICEE 2022
+
+Three paper was submitted to IEEE NANO 2023
 
 One paper was accepted by Light science & application🎉🎉
+
+One paper was accepted by Advanced Materials🎉🎉
 
 Paper "[Controlling the Skyrmion Density and Size for Quantized Convolutional Neural Networks](https://arxiv.org/abs/2302.01390)" was under review of Scientific Report.
 
