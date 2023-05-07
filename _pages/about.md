@@ -22,18 +22,18 @@ Two paper was accepted by IEEE ICEE 2022
 
 Three paper was submitted to IEEE NANO 2023
 
-Paper "[Artificial visual perception neural system using a solution-processable MoS2-based in-memory light sensor](https://www.nature.com/articles/s41377-023-01166-7)" was submitted by Light science & application🎉🎉
+Paper "[Artificial visual perception neural system using a solution-processable MoS2-based in-memory light sensor](https://www.nature.com/articles/s41377-023-01166-7)" was submitted to Light science & application🎉🎉
 
 One paper was accepted by Advanced Materials🎉🎉
 
 Paper "[Controlling the Skyrmion Density and Size for Quantized Convolutional Neural Networks](https://arxiv.org/abs/2302.01390)" was under review of Scientific Report.
 
 <!-- Paper "[Novel Knowledge Distillation to Improve Training Accuracy of Spin-based SNN](http://henryluckky.github.io/files/AICAS2023_Novel_Knowledge.pdf)" was under review of IEEE AICAS 2023. -->
-Paper Novel Knowledge Distillation to Improve Training Accuracy of Spin-based SNN was under review of IEEE AICAS 2023.
+Paper Novel Knowledge Distillation to Improve Training Accuracy of Spin-based SNN was accepted by IEEE AICAS 2023.
 
 Paper "[Voltage Gated Domain Wall Magnetic Tunnel Junction-based Spiking Convolutional Neural Network](https://arxiv.org/abs/2212.09444)" was under review of IEEE TED.
 
-Paper "[Vertically Stacked Nanosheet FET](https://ieeexplore.ieee.org/abstract/document/10015665)" was submitted by IEEE TED.
+Paper "[Vertically Stacked Nanosheet FET](https://ieeexplore.ieee.org/abstract/document/10015665)" was submitted to IEEE TED.
 
 Paper "[Real-time Biosignal Recording and Machine-Learning Analysis System](https://ieeexplore.ieee.org/abstract/document/9869982)" has been submitted to IEEE AICAS 2022
 
