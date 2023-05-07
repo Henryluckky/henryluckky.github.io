@@ -22,7 +22,7 @@ Two paper was accepted by IEEE ICEE 2022
 
 Three paper was submitted to IEEE NANO 2023
 
-One paper was accepted by Light science & application🎉🎉
+One paper was accepted by "[Light science & application](https://www.nature.com/articles/s41377-023-01166-7)"🎉🎉
 
 One paper was accepted by Advanced Materials🎉🎉
 
