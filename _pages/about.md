@@ -24,7 +24,7 @@ Three paper was submitted to IEEE NANO 2023
 
 Paper "[Artificial visual perception neural system using a solution-processable MoS2-based in-memory light sensor](https://www.nature.com/articles/s41377-023-01166-7)" was submitted to Light science & application🎉🎉
 
-One paper was accepted by Advanced Materials🎉🎉
+Paper "[Flexible Solution Processable Black Phosphorus Based Optoelectronic Memristive Synapse](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.202300446)" was submitted to Advanced Materials🎉🎉
 
 Paper "[Controlling the Skyrmion Density and Size for Quantized Convolutional Neural Networks](https://arxiv.org/abs/2302.01390)" was under review of Scientific Report.
 
