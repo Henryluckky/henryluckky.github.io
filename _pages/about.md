@@ -18,18 +18,17 @@ My future goal is to become a scientist or engineer. I will always focus on the 
 
 ======News======
 
-Two paper was accepted by IEEE ICEE 2022
-
-Three paper was submitted to IEEE NANO 2023
+One paper was submitted to IEEE NANO 2023
 
 Paper "[Artificial visual perception neural system using a solution-processable MoS2-based in-memory light sensor](https://www.nature.com/articles/s41377-023-01166-7)" was submitted to Light science & application🎉🎉
 
 Paper "[Flexible Solution Processable Black Phosphorus Based Optoelectronic Memristive Synapse](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202300446)" was submitted to Advanced Materials🎉🎉
 
-Paper "[Controlling the Skyrmion Density and Size for Quantized Convolutional Neural Networks](https://arxiv.org/abs/2302.01390)" was under review of Scientific Report.
+Paper "[Novel Knowledge Distillation to Improve Training Accuracy of Spin-based SNN](https://ieeexplore.ieee.org/abstract/document/10168575/)" was submitted to IEEE AICAS 2023.
 
-<!-- Paper "[Novel Knowledge Distillation to Improve Training Accuracy of Spin-based SNN](http://henryluckky.github.io/files/AICAS2023_Novel_Knowledge.pdf)" was under review of IEEE AICAS 2023. -->
-Paper Novel Knowledge Distillation to Improve Training Accuracy of Spin-based SNN was accepted by IEEE AICAS 2023.
+Paper "[Mimicking Synaptic Behaviors with Junctionless Transistor for Low Power Neuromorphic Computing](https://ieeexplore.ieee.org/abstract/document/10118253)" was submitted to IEEE ICEE 2022.
+
+Paper "[Controlling the Skyrmion Density and Size for Quantized Convolutional Neural Networks](https://arxiv.org/abs/2302.01390)" was under review of Scientific Report.
 
 Paper "[Voltage Gated Domain Wall Magnetic Tunnel Junction-based Spiking Convolutional Neural Network](https://arxiv.org/abs/2212.09444)" was under review of IEEE TED.
 
