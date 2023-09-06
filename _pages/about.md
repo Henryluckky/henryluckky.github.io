@@ -22,7 +22,7 @@ I received Dean's list award of KAUST with 9000 SAR🎉🎉
 
 One paper was submitted to IEEE BioCAS 2023
 
-One paper was submitted to IEEE NANO 2023
+Paper "[Solution Processable Mos2 Based Memristive Synapse for Brain Inspired Computing](https://ieeexplore.ieee.org/abstract/document/10231292)" was submitted to IEEE NANO 2023
 
 Paper "[Artificial visual perception neural system using a solution-processable MoS2-based in-memory light sensor](https://www.nature.com/articles/s41377-023-01166-7)" was submitted to Light science & application🎉🎉
 
