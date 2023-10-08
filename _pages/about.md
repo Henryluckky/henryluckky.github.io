@@ -18,11 +18,13 @@ My future goal is to become a scientist or engineer. I will always focus on the 
 
 ======News======
 
-I received Dean's list award of KAUST with 9000 SAR🎉🎉
+I received Dean's list award of KAUST with 2500 USD🎉🎉
 
 One paper was submitted to IEEE BioCAS 2023
 
-Paper "[Solution Processable Mos2 Based Memristive Synapse for Brain Inspired Computing](https://ieeexplore.ieee.org/abstract/document/10231292)" was submitted to IEEE NANO 2023
+Paper "[Minimally Invasive Hypoglossal Nerve Stimulator Enabled by ECG Sensor and WPT to Manage Obstructive Sleep Apnea](https://www.preprints.org/manuscript/202309.1811/v1)" was submitted to Sensors.
+
+Paper "[Solution Processable Mos2 Based Memristive Synapse for Brain Inspired Computing](https://ieeexplore.ieee.org/abstract/document/10231292) and [Voltage Gated Domain Wall Magnetic Tunnel Junction for Neuromorphic Computing Applications](https://ieeexplore.ieee.org/abstract/document/10231303)" was submitted to IEEE NANO 2023.
 
 Paper "[Artificial visual perception neural system using a solution-processable MoS2-based in-memory light sensor](https://www.nature.com/articles/s41377-023-01166-7)" was submitted to Light science & application🎉🎉
 
