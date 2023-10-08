@@ -36,7 +36,7 @@ Paper "[Mimicking Synaptic Behaviors with Junctionless Transistor for Low Power 
 
 Paper "[Controlling the Skyrmion Density and Size for Quantized Convolutional Neural Networks](https://arxiv.org/abs/2302.01390)" was under review of Scientific Report.
 
-Paper "[Voltage Gated Domain Wall Magnetic Tunnel Junction-based Spiking Convolutional Neural Network](https://arxiv.org/abs/2212.09444)" was under review of IEEE TED.
+Paper "[Voltage Gated Domain Wall Magnetic Tunnel Junction-based Spiking Convolutional Neural Network](https://arxiv.org/abs/2212.09444)" was submitted to IEEE TED.
 
 Paper "[Vertically Stacked Nanosheet FET](https://ieeexplore.ieee.org/abstract/document/10015665)" was submitted to IEEE TED.
 
