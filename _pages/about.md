@@ -20,7 +20,9 @@ My future goal is to become a scientist or engineer. I will always focus on the 
 
 I received Dean's list award of KAUST with 2500 USD🎉🎉
 
-One paper was submitted to IEEE BioCAS 2023
+Paper "[NMBNN: Noise-Adaptive Memristive Bayesian
+Neural Network for Energy-Efficient Edge Health
+Care](http://henryluckky.github.io/files/HLi_biocas.pdf)" was submitted to IEEE BioCAS 2023
 
 Paper "[Minimally Invasive Hypoglossal Nerve Stimulator Enabled by ECG Sensor and WPT to Manage Obstructive Sleep Apnea](https://www.preprints.org/manuscript/202309.1811/v1)" was submitted to Sensors.
 
