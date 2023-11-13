@@ -24,9 +24,9 @@ Paper "[NMBNN: Noise-Adaptive Memristive Bayesian
 Neural Network for Energy-Efficient Edge Health
 Care](http://henryluckky.github.io/files/HLi_biocas.pdf)" was submitted to IEEE BioCAS 2023
 
-Paper "[Minimally Invasive Hypoglossal Nerve Stimulator Enabled by ECG Sensor and WPT to Manage Obstructive Sleep Apnea](https://www.preprints.org/manuscript/202309.1811/v1)" was submitted to Sensors.
+Paper "[Minimally Invasive Hypoglossal Nerve Stimulator Enabled by ECG Sensor and WPT to Manage Obstructive Sleep Apnea](https://www.mdpi.com/1424-8220/23/21/8882)" was submitted to Sensors.
 
-Paper "[Solution Processable Mos2 Based Memristive Synapse for Brain Inspired Computing](https://ieeexplore.ieee.org/abstract/document/10231292) and [Voltage Gated Domain Wall Magnetic Tunnel Junction for Neuromorphic Computing Applications](https://ieeexplore.ieee.org/abstract/document/10231303)" was submitted to IEEE NANO 2023.
+Paper "[Solution Processable Mos2 Based Memristive Synapse for Brain Inspired Computing](https://ieeexplore.ieee.org/abstract/document/10231292)" was submitted to IEEE NANO 2023.
 
 Paper "[Artificial visual perception neural system using a solution-processable MoS2-based in-memory light sensor](https://www.nature.com/articles/s41377-023-01166-7)" was submitted to Light science & application🎉🎉
 
@@ -38,11 +38,11 @@ Paper "[Mimicking Synaptic Behaviors with Junctionless Transistor for Low Power 
 
 Paper "[Controlling the Skyrmion Density and Size for Quantized Convolutional Neural Networks](https://arxiv.org/abs/2302.01390)" was under review of Scientific Report.
 
-Paper "[Voltage Gated Domain Wall Magnetic Tunnel Junction-based Spiking Convolutional Neural Network](https://arxiv.org/abs/2212.09444)" was submitted to IEEE TED.
+Paper "[Voltage-Gated Domain Wall Magnetic Tunnel Junction for Neuromorphic Computing Applications](https://arxiv.org/abs/2212.09444)" was submitted to IEEE TED.
 
 Paper "[Vertically Stacked Nanosheet FET](https://ieeexplore.ieee.org/abstract/document/10015665)" was submitted to IEEE TED.
 
-Paper "[Real-time Biosignal Recording and Machine-Learning Analysis System](https://ieeexplore.ieee.org/abstract/document/9869982)" has been submitted to IEEE AICAS 2022
+Paper "[Real-time Biosignal Recording and Machine-Learning Analysis System](https://ieeexplore.ieee.org/abstract/document/9869982)" was submitted to IEEE AICAS 2022
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5mvom6ggcrm&amp;m=0&amp;h=128&amp;c=ff0000&amp;r=0" async="async"></script>
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
