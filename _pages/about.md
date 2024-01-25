@@ -22,7 +22,7 @@ I received Dean's list award of KAUST with 2500 USD🎉🎉
 
 Paper "[NMBNN: Noise-Adaptive Memristive Bayesian
 Neural Network for Energy-Efficient Edge Health
-Care](http://henryluckky.github.io/files/HLi_biocas.pdf)" was submitted to IEEE BioCAS 2023
+Care](https://ieeexplore.ieee.org/abstract/document/10388528)" was submitted to IEEE BioCAS 2023
 
 Paper "[Minimally Invasive Hypoglossal Nerve Stimulator Enabled by ECG Sensor and WPT to Manage Obstructive Sleep Apnea](https://www.mdpi.com/1424-8220/23/21/8882)" was submitted to Sensors.
 
