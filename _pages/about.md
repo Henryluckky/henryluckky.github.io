@@ -17,6 +17,7 @@ From June.2021 to March.2022, I was a research assitant at [CenBRAIN Neurotech](
 My future goal is to become a scientist or engineer. I will always focus on the field of electronic&computer engineering and chase the most cutting-edge technology!
 
 ======News======
+I gave a research presentation in Aramco with title "Neuromorphic computing: from device to algorithms".
 
 I received Dean's list award of KAUST with 2500 USD🎉🎉
 
