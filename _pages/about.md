@@ -18,9 +18,13 @@ My future goal is to become a scientist or engineer. I will always focus on the 
 
 ======News======
 
-I gave a research presentation in Aramco with title "Neuromorphic computing: from device to algorithms".
+Paper Highly Efficient Back-end-of-Line Compatible Flexible Si-Based Optical Crossbar Memristive Array for Edge Neuromorphic Physiological Signal Processing and Bionic Machine vision was submitted to npj Unconventional Computing
 
-I received Dean's list award of KAUST with 2500 USD🎉🎉
+Paper Negative Photo Conductivity Triggered with Visible Light in Complementary-Metal Oxide Semiconductor-Compatible Wide Bandgap Oxides-Based Electro-Photonic Crossbar Memristive Array for Photograph Sensing and Neuromorphic Computing Applications was submitted to Nano-Micro Letters
+
+I had a research presentation in Aramco with title "Neuromorphic computing: from device to algorithms".
+
+I received Dean's list award of KAUST with 2500 USD for 2023 and 2024🎉🎉
 
 Paper "[NMBNN: Noise-Adaptive Memristive Bayesian
 Neural Network for Energy-Efficient Edge Health
