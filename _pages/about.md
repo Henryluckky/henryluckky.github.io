@@ -13,13 +13,10 @@ Hi, there! This is Hanrui Li, a MS/PhD student in [Smart, Advanced Memory device
 
 From June.2021 to March.2022, I was a research assitant at [CenBRAIN Neurotech](https://cenbrain.westlake.edu.cn/), Westlake University working with Prof. [Mohamad SAWAN](http://www.mohamadsawan.org) (Chair Professor, FIEEE, FCAE) & Dr. Jie YANG. I ever worked as Research Assistant in two labs at my bachelor school. Now my research interest lie in Neuromorphic Computing and Smart memory device. Please feel free to contact me if you have any questions. My e-mails: [hanrui.li@kaust.edu.sa](hanrui.li@kaust.edu.sa)
 
-My future goal is to become a scientist or engineer. I will always focus on the field of electronic&computer engineering and chase the most cutting-edge technology!
-
-<!-- I am also a part-time trader and deep value investor in the secondary market. Welcome to discuss anything about finance, portfolio management, and investment with me. Together in knowledge, together in growth! -->
+Over the past two years, I had two internships at leading hedge funds in China. I also worked as a quantitative researcher and co-founder of a proprietary trading company specializing in high-frequency trading (HFT) strategies across the Chinese futures market and the Saudi Exchange. My work integrates quantitative modeling, statistical research, and algorithmic strategy development to capture market opportunities with precision and scale. Notably, our firm became the first Chinese team to serve as a market maker in the Saudi market. Feel free to connect with me.
 
 
-
-======News======
+<!-- ======News======
 
 Paper "[Optoelectronic wide-band-gap oxide-based memristor for mimicking human eye sensory perception and object tracking](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00429-6)" was submitted to Cell Reports Physical Science
 
@@ -55,7 +52,7 @@ Paper "[Vertically Stacked Nanosheet FET](https://ieeexplore.ieee.org/abstract/d
 
 Paper "[Real-time Biosignal Recording and Machine-Learning Analysis System](https://ieeexplore.ieee.org/abstract/document/9869982)" was submitted to IEEE AICAS 2022
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5mvom6ggcrm&amp;m=0&amp;h=128&amp;c=ff0000&amp;r=0" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5mvom6ggcrm&amp;m=0&amp;h=128&amp;c=ff0000&amp;r=0" async="async"></script> -->
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
