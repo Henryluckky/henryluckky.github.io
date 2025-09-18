@@ -13,7 +13,7 @@ Hi, there! This is Hanrui Li, a MS/PhD student in [Smart, Advanced Memory device
 
 From June.2021 to March.2022, I was a research assitant at [CenBRAIN Neurotech](https://cenbrain.westlake.edu.cn/), Westlake University working with Prof. [Mohamad SAWAN](http://www.mohamadsawan.org) (Chair Professor, FIEEE, FCAE) & Dr. Jie YANG. I ever worked as Research Assistant in two labs at my bachelor school. Now my research interest lie in Neuromorphic Computing and Smart memory device. Please feel free to contact me if you have any questions. My e-mails: [hanrui.li@kaust.edu.sa](hanrui.li@kaust.edu.sa)
 
-Over the past two years, I had two internships at leading hedge funds in China. I also worked as a quantitative researcher and co-founder of a proprietary trading company specializing in high-frequency trading (HFT) strategies across the Chinese futures market and the Saudi Exchange. My work integrates quantitative modeling, statistical research, and algorithmic strategy development to capture market opportunities with precision and scale. Notably, our firm became the first Chinese team to serve as a market maker in the Saudi market. Feel free to connect with me.
+Over the past two years, I had two internships at top hedge funds in China. I also worked as a quantitative researcher and co-founder of a proprietary trading company specializing in high-frequency trading (HFT) strategies across the Chinese futures market and the Saudi Exchange. My work integrates quantitative modeling, statistical research, and algorithmic strategy development to capture market opportunities with precision and scale. Notably, our firm became the first Chinese team to serve as a market maker in the Saudi market. Feel free to connect with me.
 
 
 <!-- ======News======
